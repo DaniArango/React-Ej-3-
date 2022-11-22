@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+.Header {
+    height: 50px;
+    background: #000000;
+    color: aliceblue;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 40px;
+    text-align: center;
+    padding: 60px 0;
+    width: 100%;
+    margin: auto;
+    
+
+}
